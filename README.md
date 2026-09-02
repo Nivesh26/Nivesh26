@@ -19,7 +19,7 @@
         <h2>About Me</h2>
         <p>
           I'm a software engineer focused on building <b>scalable full-stack applications</b> using modern technologies.<br><br>
-          I enjoy working on both <b>frontend (React)</b> and <b>backend (Spring Boot / MERN)</b> systems and UI/UX.
+          I enjoy working on both <b>frontend (React)</b> and <b>backend (Spring Boot / NodeJS)</b> systems and UI/UX.
         </p>
       </td>
     </tr>
