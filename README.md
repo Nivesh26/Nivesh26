@@ -12,19 +12,7 @@
 
 ---
 
-<div align="center">
-  <table width="80%" style="border-radius:16px; backdrop-filter: blur(10px); background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); padding:20px;">
-    <tr>
-      <td align="center">
-        <h2>About Me</h2>
-        <p>
-          I'm a software engineer focused on building <b>scalable full-stack applications</b> using modern technologies.<br><br>
-          I enjoy working on both <b>frontend (React)</b> and <b>backend (Spring Boot / NodeJS)</b> systems and UI/UX.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nivesh26/Nivesh26/output/pacman-contribution-graph-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nivesh26/Nivesh26/output/pacman-contribution-graph.svg" /> <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Nivesh26/Nivesh26/output/pacman-contribution-graph.svg" /> </picture>
 
 ---
 
@@ -55,14 +43,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
-
-
-
-
-
 ---
 
-<!-- Optional Snake Animation -->
-<!--
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
--->
+
+
